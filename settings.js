@@ -20,7 +20,7 @@ const settings = {
   // 📝 Meta Information
   description: '💬 A fun, powerful & stylish WhatsApp MD bot created with ❤️ by SILVER POWER.',
   version: '2.0.0',
-updateZipUrl: "https://github.com/Shttps://github.com/silvertechmd/SILVER-Tech-MD/issues-MD/SILVER-Tech-MD/archive/refs/heads/main.zip",
+updateZipUrl: "https://github.com/silvertechmd/SILVER-Tech-MD",
   
 };
 
