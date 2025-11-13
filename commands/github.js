@@ -28,7 +28,7 @@ async function githubCommand(sock, chatId, message) {
 📍 _Stay curious, stay coding!_
 `;
 
-    const imgPath = path.join(__dirname, '../assets/june_menu.jpg'); // Rename your image accordingly
+    const imgPath = path.join(__dirname, '../assets/bot_image.jpg'); // Rename your image accordingly
     const imgBuffer = fs.existsSync(imgPath)
       ? fs.readFileSync(imgPath)
       : null;
